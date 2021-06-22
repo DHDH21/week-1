@@ -6,6 +6,7 @@ A website that offers strategies for lead generation require less work for your 
 ## Built With
 * HTML
 * CSS
+* And love
 
 ## Website
 https://dhdh21.github.io/week-1/
